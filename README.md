@@ -9,7 +9,7 @@ I'm a Full-Stack Developer from Canada. I have experience building and scaling w
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/twitter-square.png" alt=”Clayton Barnett | Twitter” width="21px"/>
 </a>
 <a href="https://www.claytonbarnett.com/">
-  <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/website.png" alt=”Clayton Barnett | Twitter” width="21px"/>
+  <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/website-icon.png" alt=”Clayton Barnett | Twitter” width="21px"/>
 </a><br>
 
 [![Ryan Fitzgerald's github stats](https://github-readme-stats.vercel.app/api?username=cbarnett427&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
