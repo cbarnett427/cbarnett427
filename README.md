@@ -5,9 +5,11 @@ I'm a software developer and systems administrator, specializing in software and
 <a href="https://www.linkedin.com/in/clayton-barnett2020/">
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/linkedin.svg" alt=”Clayton Barnett | LinkedIn” width="24px"/>
   <b>Connect on Linkedin</b></a><br/>
+  
 <a href="https://twitter.com/cbarnett427/">
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/twitter-square.png" alt=”Clayton Barnett | Twitter” width="24px"/>
 <b>Follow or Reach Out on Twitter</b></a><br/>
+
 <a href="https://www.claytonbarnett.com/">
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/website.png" alt=”Clayton Barnett | Twitter” width="24px"/>
 <b>Visit My Website</b></a>
