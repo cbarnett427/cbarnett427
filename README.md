@@ -15,4 +15,4 @@ I'm a software developer and systems administrator, specializing in software and
 <b>Visit My Website</b></a>
 
 ### 📈 GitHub Stats:
-[![Clayton Barnetts's github stats](https://github-readme-stats.vercel.app/api?username=cbarnett427&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Clayton Barnetts's github stats](https://github-readme-stats.vercel.app/api?username=cbarnett427&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
