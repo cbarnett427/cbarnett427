@@ -1,5 +1,5 @@
 ## Hi, I'm Clayton 👋
-I'm a software developer and systems administrator, specializing in software and web development, hardware installation, software troubleshooting, and network configuration. I also enjoy building side projects in my free time.
+I'm a software developer and systems administrator, specializing in software and web development, hardware installation, software troubleshooting, software debugging, and network configuration. I also enjoy building side projects in my free time.
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/clayton-barnett2020/">
