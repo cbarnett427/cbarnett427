@@ -7,7 +7,7 @@ I'm a software developer and systems administrator, specializing in software and
   <b>Connect on Linkedin</b></a><br/>
 <a href="https://twitter.com/cbarnett427/">
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/twitter-square.png" alt=”Clayton Barnett | Twitter” width="24px"/>
-<b>Follow or Reach Out on Twitter</b></a><br>
+<b>Follow or Reach Out on Twitter</b></a><br/>
 <a href="https://www.claytonbarnett.com/">
   <img align="left" src="https://github.com/cbarnett427/cbarnett427/blob/main/images/website.png" alt=”Clayton Barnett | Twitter” width="24px"/>
 <b>Visit My Website</b></a>
